@@ -15,14 +15,14 @@
 - Tools: Git, VS Code
 
 ## 🌟 Top Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Pramod-211&repo=repo-name&theme=radical)](https://github.com/Pramod-211/repo-name)
+  wil create it soon
 
 ## 📫 Connect with Me
--  MY [LinkedIn](https://www.linkedin.com/in/pramod-c-dhotarad-1762aa233/)
+-  My [LinkedIn](https://www.linkedin.com/in/pramod-c-dhotarad-1762aa233/)
 - 👋 Hi, I’m @Pramod-211
 - 👀 I’m interested in coding,cricket,anime,music
 - 🌱 I’m currently learning BE 3rd year
-- 📫 How to reach me (pramodcdhotarad@gmail.com)
+- 📫 How to reach me: pramodcdhotarad@gmail.com
 - ⚡ Fun fact: Things are different in online n offline
 
 <!---
