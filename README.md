@@ -6,27 +6,24 @@
 - 🌱 I’m currently learning new programming languages and technologies.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [pramod.email@example.com](mailto:pramod.email@example.com)
+- 📫 How to reach me: [pramodcdhotarad@gmail.com](mailto:pramodcdhotarad@gmail.com)
 
 ## 🛠️ Technologies & Tools
-- Programming Languages: Python, JavaScript, C++
+- Programming Languages: java, JavaScript, C
 - Web Development: HTML, CSS, React, Node.js
 - Databases: MySQL, MongoDB
 - Tools: Git, VS Code
-
-## 📈 GitHub Stats
-![Pramod-211's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pramod-211&show_icons=true&theme=radical)
 
 ## 🌟 Top Repositories
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Pramod-211&repo=repo-name&theme=radical)](https://github.com/Pramod-211/repo-name)
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/pramod-211)
-- [Twitter](https://twitter.com/pramod-211)- 👋 Hi, I’m @Pramod-211
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- [LinkedIn](https://www.linkedin.com/in/pramod-c-dhotarad-1762aa233/)
+- 👋 Hi, I’m @Pramod-211
+- 👀 I’m interested in coding,cricket,anime,music
+- 🌱 I’m currently learning BE 3rd year
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me (pramodcdhotarad@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
