@@ -12,7 +12,7 @@
 - Programming Languages: Python, JavaScript, C++
 - Web Development: HTML, CSS, React, Node.js
 - Databases: MySQL, MongoDB
-- Tools: Git, Docker, VS Code
+- Tools: Git, VS Code
 
 ## 📈 GitHub Stats
 ![Pramod-211's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pramod-211&show_icons=true&theme=radical)
